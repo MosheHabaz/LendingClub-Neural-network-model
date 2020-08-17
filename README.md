@@ -1,3 +1,3 @@
-# LendingClub Bulding a Neural-network-model
+# LendingClub Building a Neural-network-model
 ---
 
