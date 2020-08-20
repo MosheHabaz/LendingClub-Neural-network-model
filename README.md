@@ -7,7 +7,6 @@
 2.   Section 1: Data Analysis
   *    Exploring loan status, loan amnt and installment columns.
   *    Exploring the Grade and SubGrade columns that LendingClub assigned to the loans.
-  *    Creating a new column called 'loan_repaid' which will contain a 1 if the loan status was "Fully Paid" and a 0 if it was "Charged Off".
   
 3.   Section 2: Data PreProcessing
   *    Missing Data.
